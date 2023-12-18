@@ -1,0 +1,80 @@
+[
+  {
+      "_id": {"$oid": "000000000000000000000001"},
+      "BreedID": 1,
+      "BreedName": "Golden Retriever",
+      "Characteristics": "Intelligent, Friendly, Active"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000002"},
+      "BreedID": 2,
+      "BreedName": "Rottweiler",
+      "Characteristics": "Loyal, Courageous, Intelligent"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000003"},
+      "BreedID": 3,
+      "BreedName": "Basset Hound",
+      "Characteristics": "Gentle, good-natured, loyal, intelligent"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000004"},
+      "BreedID": 4,
+      "BreedName": "Labrador Retriever",
+      "Characteristics": "Friendly, Outgoing, Active"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000005"},
+      "BreedID": 5,
+      "BreedName": "Bulldog",
+      "Characteristics": "Stubborn, Willful, Friendly"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000006"},
+      "BreedID": 6,
+      "BreedName": "Poodle",
+      "Characteristics": "Intelligent, Active, Alert"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000007"},
+      "BreedID": 7,
+      "BreedName": "Beagle",
+      "Characteristics": "Friendly, Curious, Merry"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000008"},
+      "BreedID": 8,
+      "BreedName": "Siberian Husky",
+      "Characteristics": "Outgoing, Alert, Gentle"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000009"},
+      "BreedID": 9,
+      "BreedName": "Boxer",
+      "Characteristics": "Playful, Energetic, Bright"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000010"},
+      "BreedID": 10,
+      "BreedName": "Dachshund",
+      "Characteristics": "Clever, Courageous, Stubborn"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000011"},
+      "BreedID": 11,
+      "BreedName": "German Shepherd",
+      "Characteristics": "Loyal, intelligent, protective"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000012"},
+      "BreedID": 12,
+      "BreedName": "Pekingese",
+      "Characteristics": "intelligent, affectionate, good-natured"
+  },
+  {
+      "_id": {"$oid": "000000000000000000000013"},
+      "BreedID": 13,
+      "BreedName": "Chihuahua",
+      "Characteristics": "Loyal, energetic, confident, sensitive"
+  }
+]

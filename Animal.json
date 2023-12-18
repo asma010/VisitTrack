@@ -1,0 +1,202 @@
+[
+    {
+        "Name": "Max",
+        "Age": 1,
+        "Gender": "Male",
+        "Color": "Yellow",
+        "Weight": 22,
+        "DateRescued": "2022-08-11",
+        "Status": "Available",
+        "BreedID":"000000000000000000000004"
+    },
+    {
+        "Name": "Bella",
+        "Age": 7,
+        "Gender": "Female",
+        "Color": "Black",
+        "Weight": 22,
+        "DateRescued": "2022-08-28",
+        "Status": "Available",
+        "BreedID":"000000000000000000000011"
+    },
+    {
+        "Name": "Charlie",
+        "Age": 9,
+        "Gender": "Male",
+        "Color": "White",
+        "Weight": 5,
+        "DateRescued": "2021-11-28",
+        "Status": "Adopted",
+        "BreedID":"000000000000000000000012"
+    },
+    {
+        "Name": "Sadie",
+        "Age": 5,
+        "Gender": "Female",
+        "Color": "White",
+        "Weight": 4,
+        "DateRescued": "2022-09-25",
+        "Status": "Available",
+        "BreedID":"000000000000000000000006"
+    },
+    {
+        "Name": "Taco",
+        "Age": 6,
+        "Gender": "Male",
+        "Color": "White",
+        "Weight": 5,
+        "DateRescued": "2022-11-02",
+        "Status": "Available",
+        "BreedID":"000000000000000000000007"
+    },
+    {
+        "Name": "Mocha",
+        "Age": 9,
+        "Gender": "Female",
+        "Color": "Black",
+        "Weight": 2.9,
+        "DateRescued": "2021-02-28",
+        "Status": "Adopted",
+        "BreedID":"000000000000000000000013"
+    },
+    {
+        "Name": "Duke",
+        "Age": 1,
+        "Gender": "Male",
+        "Color": "Fawn",
+        "Weight": 25,
+        "DateRescued": "2022-01-08",
+        "Status": "Available",
+        "BreedID":"000000000000000000000009"
+    },
+    {
+        "Name": "Scout",
+        "Age": 3,
+        "Gender": "Male",
+        "Color": "Golden",
+        "Weight": 25,
+        "DateRescued": "2022-08-05",
+        "Status": "Available",
+        "BreedID":"000000000000000000000001"
+    },
+    {
+        "Name": "Gandalf",
+        "Age": 8,
+        "Gender": "Female",
+        "Color": "Black",
+        "Weight": 36,
+        "DateRescued": "2022-10-28",
+        "Status": "Available",
+        "BreedID":"000000000000000000000002"
+    },
+    {
+        "Name": "Atticus",
+        "Age": 9,
+        "Gender": "Male",
+        "Color": "Black",
+        "Weight": 32,
+        "DateRescued": "2021-08-02",
+        "Status": "Adopted",
+        "BreedID":"000000000000000000000008"
+    },
+    {
+        "Name": "Winnie",
+        "Age": 8,
+        "Gender": "Female",
+        "Color": "Black",
+        "Weight": 7,
+        "DateRescued": "2021-11-28",
+        "Status": "Adopted",
+        "BreedID":"000000000000000000000010"
+    },
+    {
+        "Name": "Bowie",
+        "Age": 11,
+        "Gender": "Female",
+        "Color": "Red",
+        "Weight": 26,
+        "DateRescued": "2021-09-17",
+        "Status": "Adopted",
+        "BreedID":"000000000000000000000005"
+    },
+    {
+        "Name": "Athena",
+        "Age": 1,
+        "Gender": "Male",
+        "Color": "Black",
+        "Weight": 23,
+        "DateRescued": "2022-09-10",
+        "Status": "Available",
+        "BreedID":"000000000000000000000003"
+    },
+    {
+        "Name": "Apollo",
+        "Age": 2,
+        "Gender": "Male",
+        "Color": "White",
+        "Weight": 19,
+        "DateRescued": "2022-05-02",
+        "Status": "Available",
+        "BreedID":"000000000000000000000003"
+    },
+    {
+        "Name": "Hera",
+        "Age": 3,
+        "Gender": "Female",
+        "Color": "White",
+        "Weight": 19,
+        "DateRescued": "2022-09-29",
+        "Status": "Available",
+        "BreedID":"000000000000000000000003"
+    },
+    {
+        "Name": "Odin",
+        "Age": 5,
+        "Gender": "Male",
+        "Color": "Red",
+        "Weight": 25,
+        "DateRescued": "2022-04-21",
+        "Status": "Available",
+        "BreedID":"000000000000000000000003"
+    },
+    {
+        "Name": "Freya",
+        "Age": 7,
+        "Gender": "Female",
+        "Color": "Black",
+        "Weight": 23,
+        "DateRescued": "2022-11-01",
+        "Status": "Available",
+        "BreedID":"000000000000000000000003"
+    },
+    {
+        "Name": "Thor",
+        "Age": 11,
+        "Gender": "Male",
+        "Color": "White",
+        "Weight": 45,
+        "DateRescued": "2021-02-28",
+        "Status": "Adopted",
+        "BreedID":"000000000000000000000003"
+    },
+    {
+        "Name": "Loki",
+        "Age": 8,
+        "Gender": "Male",
+        "Color": "Black",
+        "Weight": 35,
+        "DateRescued": "2022-02-28",
+        "Status": "Available",
+        "BreedID":"000000000000000000000003"
+    },
+    {
+        "Name": "Artemis",
+        "Age": 9,
+        "Gender": "Male",
+        "Color": "Black",
+        "Weight": 25,
+        "DateRescued": "2021-09-17",
+        "Status": "Adopted",
+        "BreedID":"000000000000000000000011"
+    }
+]
